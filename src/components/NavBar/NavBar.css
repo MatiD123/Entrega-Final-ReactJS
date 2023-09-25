@@ -1,0 +1,36 @@
+*{
+    font-size: 20px;
+   
+}
+
+.nav-item{
+    color: white;
+    text-decoration: none;
+}
+
+.nav-item:hover{
+    color: dimgrey;
+}
+
+.navbar-nav{
+display: flex;
+gap: 20px;
+
+}
+
+nav{
+    background-color: #0b090c;
+    padding: 10px;
+   /*  background-color: orange; */
+    
+}
+
+.btn{
+    background-color:  orange;
+    border-color: white;
+    color: #0b090c;
+}
+
+.btn:hover{
+    background-color: #ffa94d;
+}
